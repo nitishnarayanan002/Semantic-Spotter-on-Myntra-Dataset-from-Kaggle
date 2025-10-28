@@ -1,6 +1,4 @@
-Here’s a **README.md** draft — clean, professional, and ready to upload to your GitHub repo for the **Myntra Semantic Search Project** 👇
 
----
 
 # 🛍️ Myntra Product Semantic Search using Sentence Transformers & ChromaDB
 
